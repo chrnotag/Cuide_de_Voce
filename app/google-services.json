@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048620194016",
+    "project_id": "cuide-de-voce",
+    "storage_bucket": "cuide-de-voce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048620194016:android:dbec404cec3f8bb6bcd885",
+        "android_client_info": {
+          "package_name": "com.example.cuidedevoce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048620194016-hc6i1pt43m9kqpkkpkf7kqe7ks6pgg9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cuidedevoce",
+            "certificate_hash": "202036b0cc501274ba81b65a577102d642d2c59b"
+          }
+        },
+        {
+          "client_id": "1048620194016-9qctb46db45ivfr39s1lcj321pf5832r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJoyFxcLcSQEKOHkOfNAMaWu0tGLgk0Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048620194016-9qctb46db45ivfr39s1lcj321pf5832r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
